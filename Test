@@ -1,4 +1,26 @@
 #EXTM3U
+http://formen1.com:8080/live/gzt12/125632/8620.m3u8
+#EXTINF:-1,Vip Channel
+http://formen1.com:8080/live/gzt12/125632/131.m3u8
+#EXTINF:-1,Cine + HD  2
+http://formen1.com:8080/live/gzt12/125632/115.m3u8
+#EXTINF:-1,Cine + HD Turk
+http://formen1.com:8080/live/gzt12/125632/124.m3u8
+#EXTINF:-1,Cine + HD Turk 1
+http://formen1.com:8080/live/gzt12/125632/8823.m3u8
+#EXTINF:-1,Cine + HD Turk 2
+http://formen1.com:8080/live/gzt12/125632/8822.m3u8
+#EXTINF:-1,Cine + HD Turk 3
+http://formen1.com:8080/live/gzt12/125632/8821.m3u8
+#EXTINF:-1,Cine + HD Turk 4
+http://formen1.com:8080/live/gzt12/125632/8820.m3u8
+#EXTINF:-1,Cine + HD 1
+http://formen1.com:8080/live/gzt12/125632/8794.m3u8
+#EXTINF:-1,Cine + HD 2
+http://formen1.com:8080/live/gzt12/125632/8795.m3u8
+#EXTINF:-1,Cine + HD 3
+http://formen1.com:8080/live/gzt12/125632/8796.m3u8
+#EXTINF:-1,Cine + HD 4
 #EXTINF:-1,----------| TURKISH |----------
 http://formen1.com:8080/live/gzt12/125632/3194.m3u8
 #EXTINF:-1,----------| SPOR-formen |----------
